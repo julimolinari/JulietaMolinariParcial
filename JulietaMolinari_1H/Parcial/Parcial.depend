@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1558043210 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1558043210 c:\users\alumno\desktop\julietamolinari_1h\parcial\funciones.h
+
+1558051953 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558045475 c:\users\alumno\desktop\julietamolinari_1h\parcial\orquesta.h
+	<string.h>
+
+1558045850 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558047555 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\intrumentos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558046451 c:\users\alumno\desktop\julietamolinari_1h\parcial\intrumentos.h
+	<string.h>
+
+1558051939 c:\users\alumno\desktop\julietamolinari_1h\parcial\musico.h
+	<string.h>
+	"orquesta.h"
+	"intrumentos.h"
+
+1558051919 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
