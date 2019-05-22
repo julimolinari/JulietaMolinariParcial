@@ -299,25 +299,30 @@ int ins_remove(Instrumento* listaInstrumento, int len,char* msgE,int tries)
  **/
 int ins_data(Instrumento* instrumento)
 {
-    instrumento[0].id = 0;
+    instrumento[0].id = 1;
     instrumento[0].isEmpty = 0;
-    instrumento[0].tipo = 2;
-    strncpy(instrumento[0].nombre,"Piano",20);
+    instrumento[0].tipo = 1;
+    strncpy(instrumento[0].nombre,"Instrum1",20);
 
-    instrumento[1].id = 1;
+    instrumento[1].id = 2;
     instrumento[1].isEmpty = 0;
-    instrumento[1].tipo = 3;
-    strncpy(instrumento[1].nombre,"Flauta",20);
+    instrumento[1].tipo = 2;
+    strncpy(instrumento[1].nombre,"Instrum2",20);
 
-    instrumento[2].id = 2;
+    instrumento[2].id = 3;
     instrumento[2].isEmpty = 0;
-    instrumento[2].tipo = 1;
-    strncpy(instrumento[2].nombre,"Guitarra",20);
+    instrumento[2].tipo = 2;
+    strncpy(instrumento[2].nombre,"Instrum3",20);
 
-    instrumento[3].id = 3;
+    instrumento[3].id = 4;
     instrumento[3].isEmpty = 0;
-    instrumento[3].tipo = 4;
-    strncpy(instrumento[3].nombre,"Tambor",20);
+    instrumento[3].tipo = 3;
+    strncpy(instrumento[3].nombre,"Instrum4",20);
+
+    instrumento[4].id = 5;
+    instrumento[4].isEmpty = 0;
+    instrumento[4].tipo = 4;
+    strncpy(instrumento[4].nombre,"Instrum5",20);
 
     return 0;
 }

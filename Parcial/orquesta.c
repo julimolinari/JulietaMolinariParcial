@@ -293,29 +293,29 @@ int orq_remove(Orquesta* listaOrquesta, int len,char* msgE,int tries,int* id)
  **/
 int orq_data(Orquesta* orquesta)
 {
-    orquesta[0].id = 0;
+    orquesta[0].id = 1;
     orquesta[0].isEmpty = 0;
-    orquesta[0].tipo = 3;
-    strncpy(orquesta[0].nombre,"La Murga",20);
-    strncpy(orquesta[0].lugar,"Mendoza",20);
+    orquesta[0].tipo = 1;
+    strncpy(orquesta[0].nombre,"Orquesta1",20);
+    strncpy(orquesta[0].lugar,"Lugar1",20);
 
-    orquesta[1].id = 1;
+    orquesta[1].id = 2;
     orquesta[1].isEmpty = 0;
     orquesta[1].tipo = 2;
-    strncpy(orquesta[1].nombre,"Zapato",20);
-    strncpy(orquesta[1].lugar,"Peru",20);
+    strncpy(orquesta[1].nombre,"Orquesta2",20);
+    strncpy(orquesta[1].lugar,"Lugar1",20);
 
-    orquesta[2].id = 2;
+    orquesta[2].id = 3;
     orquesta[2].isEmpty = 0;
-    orquesta[2].tipo = 1;
-    strncpy(orquesta[2].nombre,"Avella",20);
-    strncpy(orquesta[2].lugar,"Avellaneda",20);
+    orquesta[2].tipo = 3;
+    strncpy(orquesta[2].nombre,"Orquesta3",20);
+    strncpy(orquesta[2].lugar,"Lugar2",20);
 
-    orquesta[3].id = 3;
+    orquesta[3].id = 4;
     orquesta[3].isEmpty = 0;
-    orquesta[3].tipo = 3;
-    strncpy(orquesta[3].nombre,"Caramelo",20);
-    strncpy(orquesta[3].lugar,"Misiones",20);
+    orquesta[3].tipo = 2;
+    strncpy(orquesta[3].nombre,"Orquesta4",20);
+    strncpy(orquesta[3].lugar,"Lugar3",20);
 
     return 0 ;
 

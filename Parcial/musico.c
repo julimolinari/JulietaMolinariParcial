@@ -549,29 +549,53 @@ int mus_isEmptyValid(Musico* listaMusico,int len)
  **/
 int mus_data(Musico* musico)
 {
-    musico[0].id = 0;
+    musico[0].id = 1;
     musico[0].isEmpty = 0;
-    musico[0].edad = 23;
-    musico[0].idInst=0;
-    musico[0].idOrq=0;
-    strncpy(musico[0].nombre,"Julieta",20);
-    strncpy(musico[0].apellido,"Molinari",20);
+    musico[0].edad = 30;
+    musico[0].idInst=2;
+    musico[0].idOrq=1;
+    strncpy(musico[0].nombre,"Mus1",20);
+    strncpy(musico[0].apellido,"AMus1",20);
 
-    musico[1].id = 1;
+    musico[1].id = 2;
     musico[1].isEmpty = 0;
-    musico[1].edad = 22;
-    musico[1].idInst=1;
-    musico[1].idOrq=1;
-    strncpy(musico[1].nombre,"Milagros",20);
-    strncpy(musico[1].apellido,"Rodriguez",20);
+    musico[1].edad = 20;
+    musico[1].idInst=5;
+    musico[1].idOrq=2;
+    strncpy(musico[1].nombre,"Mus2",20);
+    strncpy(musico[1].apellido,"AMus2",20);
 
-    musico[2].id = 2;
+    musico[2].id = 3;
     musico[2].isEmpty = 0;
-    musico[2].edad = 45;
+    musico[2].edad = 25;
     musico[2].idInst=2;
-    musico[2].idOrq=2;
-    strncpy(musico[2].nombre,"Pedro",20);
-    strncpy(musico[2].apellido,"Zapata",20);
+    musico[2].idOrq=4;
+    strncpy(musico[2].nombre,"Mus3",20);
+    strncpy(musico[2].apellido,"AMus3",20);
+
+    musico[3].id = 4;
+    musico[3].isEmpty = 0;
+    musico[3].edad = 27;
+    musico[3].idInst=1;
+    musico[3].idOrq=4;
+    strncpy(musico[3].nombre,"Mus4",20);
+    strncpy(musico[3].apellido,"AMus4",20);
+
+    musico[4].id = 5;
+    musico[4].isEmpty = 0;
+    musico[4].edad = 22;
+    musico[4].idInst=3;
+    musico[4].idOrq=1;
+    strncpy(musico[4].nombre,"Mus5",20);
+    strncpy(musico[4].apellido,"AMus5",20);
+
+    musico[5].id = 6;
+    musico[5].isEmpty = 0;
+    musico[5].edad = 35;
+    musico[5].idInst=4;
+    musico[5].idOrq=3;
+    strncpy(musico[5].nombre,"Mus6",20);
+    strncpy(musico[5].apellido,"AMus6",20);
 
     return 0;
 }

@@ -118,7 +118,7 @@
 
 1558455614 c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\funciones.h
 
-1558455614 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\intrumentos.c
+1558483047 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\intrumentos.c
 	<string.h>
 	<stdio.h>
 	<stdlib.h>
@@ -148,7 +148,7 @@
 	"musico.h"
 	"funciones.h"
 
-1558482260 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\musico.c
+1558483584 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\musico.c
 	<string.h>
 	<stdio.h>
 	<stdlib.h>
@@ -157,7 +157,7 @@
 	"funciones.h"
 	"musico.h"
 
-1558455614 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\orquesta.c
+1558483477 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\orquesta.c
 	<string.h>
 	<stdio.h>
 	<stdlib.h>
