@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1558043210 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1558043210 c:\users\alumno\desktop\julietamolinari_1h\parcial\funciones.h
+
+1558051953 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558045475 c:\users\alumno\desktop\julietamolinari_1h\parcial\orquesta.h
+	<string.h>
+
+1558045850 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558047555 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\intrumentos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558046451 c:\users\alumno\desktop\julietamolinari_1h\parcial\intrumentos.h
+	<string.h>
+
+1558051939 c:\users\alumno\desktop\julietamolinari_1h\parcial\musico.h
+	<string.h>
+	"orquesta.h"
+	"intrumentos.h"
+
+1558051919 source:c:\users\alumno\desktop\julietamolinari_1h\parcial\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
+1558448683 source:c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1558306849 c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\funciones.h
+
+1558448841 source:c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\intrumentos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558382645 c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\orquesta.h
+	<string.h>
+
+1558359983 c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\intrumentos.h
+	<string.h>
+
+1558463723 c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\musico.h
+	<string.h>
+	"orquesta.h"
+	"intrumentos.h"
+
+1558446322 source:c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558463749 source:c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
+1558447732 source:c:\users\julieta.molinari\desktop\julietamolinariparcial-master\julietamolinari_1h\parcial\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558455612 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1558455614 c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\funciones.h
+
+1558483047 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\intrumentos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558455612 c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\orquesta.h
+	<string.h>
+
+1558455614 c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\intrumentos.h
+	<string.h>
+
+1558482264 c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\musico.h
+	<string.h>
+	"orquesta.h"
+	"intrumentos.h"
+
+1558455612 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558483584 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
+1558483477 source:c:\users\alumno\desktop\julietamolinari_1h-20190521t214014z-001\julietamolinari_1h\parcial\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"funciones.h"
+
+1559238442 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1558617538 c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\funciones.h
+
+1558617538 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\intrumentos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"funciones.h"
+
+1558617538 c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\orquesta.h
+	<string.h>
+
+1558617538 c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\intrumentos.h
+	<string.h>
+
+1559170948 c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\musico.h
+	<string.h>
+	"orquesta.h"
+	"intrumentos.h"
+
+1559170530 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"musico.h"
+	"reportes.h"
+	"funciones.h"
+
+1559170255 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
+1559155553 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"funciones.h"
+
+1559238717 source:c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\reportes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+	"reportes.h"
+
+1559170948 c:\users\julieta.molinari\desktop\parcial\julietamolinariparcial\parcial\reportes.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"orquesta.h"
+	"intrumentos.h"
+	"funciones.h"
+	"musico.h"
+
