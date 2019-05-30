@@ -51,7 +51,7 @@ int orq_add(Orquesta* listaOrquesta,int len,int indice,char* msgE,int reintentos
     {
         if( getStringLetras(bufferNombre,"\nIngrese Nombre: ",msgE,reintentos)==0)
         {
-            if(getStringAlphanumeric(bufferLugar,"\nIngrese Lugar: ",msgE,reintentos)==0)
+            if(getStringLetras(bufferLugar,"\nIngrese Lugar: ",msgE,reintentos)==0)
             {
                 strncpy(listaOrquesta[indice].lugar,bufferLugar,sizeof(bufferLugar));
             }

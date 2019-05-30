@@ -21,8 +21,8 @@ int main()
     initMusico(musico,MUSICO_LEN);
     int opcion = 0;
     int idOrq = 4;
-    int idInst = 4;
-    int idMus= 3;
+    int idInst = 6;
+    int idMus= 7;
 
     ins_data(instrumento);
     orq_data(orquesta);
